@@ -6,13 +6,13 @@ Vous y trouverez les fiches de chaque exercice ainsi qu'une version compilée po
 
 ## Exercice 1 - Prototype simple déployé
 
--   [Fiche d'exercice Ex.1](ex1/)
--   [Exemple jouable](https://max-lacasse-maisonneuve.github.io/2J2-Exercices/ex1/index.html).
+- [Fiche d'exercice Ex.1](ex1/)
+- [Exemple jouable](https://max-lacasse-maisonneuve.github.io/2J2-Exercices/ex1/index.html).
 
 ## Exercice 2 - Prototype avec collisions
 
--   [Fiche d'exercice Ex.2](ex2/) - TBA.
+- [Fiche d'exercice Ex.2](ex2/) - À venir.
 
 ## Exercice 3 - Prototype animé avec instanciation
 
--   [Fiche d'exercice Ex.3](ex2/) - TBA.
+- [Fiche d'exercice Ex.3](ex3/) - À venir.
