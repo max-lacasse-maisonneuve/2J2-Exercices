@@ -16,3 +16,7 @@ Vous y trouverez les fiches de chaque exercice ainsi qu'une version compilée po
 ## Exercice 3 - Prototype animé avec instanciation
 
 - [Fiche d'exercice Ex.3](ex3/) - À venir.
+
+## Exemples de travaux d'étudiants
+
+- [Exemples Hiver 2023](https://max-lacasse-maisonneuve.github.io/2J2-Exercices/exemples).
