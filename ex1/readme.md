@@ -32,7 +32,7 @@ Voici [le lien pour un exemple jouable](https://max-lacasse-maisonneuve.github.i
 - La caméra MainCamera doit avoir un Size de 10\.
 - L’aspect de la fenêtre `Game` doit être `16:9 Aspect`.
 - Le code du projet doit être hébergé sur un dépôt GitHub.
-    - Le dépôt doit être créé dans l’ organisation du cours (**26h-2j2**).
+    - Le dépôt doit être créé dans l’ organisation du cours (**h26-2j2**).
     - Le dépôt doit être nommé **NomPrenom-Ex1**. _Ex. RossBob-Ex1._
 - Les messages de commits sont descriptifs des changements réalisés.
 - Une version compilée (un _build_) doit être déployée sur GitHub Pages dans le dossier `docs` du dépôt.
@@ -44,7 +44,7 @@ Voici [le lien pour un exemple jouable](https://max-lacasse-maisonneuve.github.i
 - Vous devez remettre sur Teams:
     - une archive UnityPackage de votre projet.
     - un lien pour le dépôt GitHub du projet.
-        - Format : _Ex. https://github.com/26h-2j2/NomPrenom-Ex1._
+        - Format : _Ex. https://github.com/h26-2j2/NomPrenom-Ex1._
 
 ## **Critères**
 
