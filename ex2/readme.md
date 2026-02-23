@@ -10,7 +10,7 @@ Mais au cœur du parcours, une légende devenue réalité — un Yéti surgissan
 
 ## **Objectif de l'exercice**
 
-Vous devez créer un prototype d'un jeu où un skieur descend une montagne le plus vite possible, collectant des points en passant par des portails et en touchant des objets cibles. Aussi, il faut s’évader de la terrible créature qui habite ces monts. Le mouvement du joueur doit être contrôlé par les touches WASD et les flèches. Les médias à utiliser sont seulement ceux du paquet d’assets fournis (dans le fichier **exercice2--depart.zip**).
+Vous devez créer un prototype d'un jeu où un skieur descend une montagne le plus vite possible, collectant des points en passant par des portails et en touchant des objets cibles. Aussi, il faut s’évader de la terrible créature qui habite ces monts. Le mouvement du joueur doit être contrôlé par les touches WASD et les flèches. Les médias à utiliser sont seulement ceux du paquet d’assets fournis (dans le fichier **[exercice2--depart.zip](https://github.com/max-lacasse-maisonneuve/2J2-Exercices/blob/master/ex2/exercice2--depart.zip)**).
 
 Voici le [**lien pour un exemple jouable**](https://max-lacasse-maisonneuve.github.io/2J2-Exercices/ex2/index.html).
 
